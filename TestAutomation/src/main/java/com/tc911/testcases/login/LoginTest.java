@@ -17,7 +17,7 @@ public class LoginTest{
 		Login login = new Login();
 		login.openLogiTrak();
 		login.typeUsername("ehoff1");
-		login.typePassword("Rmstc911");
+		//login.typePassword("Rmstc911");
 		//login.submit();
 		//signInLink.clickOnSignIn();
 		//Assert.assertTrue(authModal.isSignInOpened());
