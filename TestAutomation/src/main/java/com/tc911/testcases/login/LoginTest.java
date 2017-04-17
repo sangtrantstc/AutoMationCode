@@ -15,9 +15,9 @@ public class LoginTest{
 	@Test(groups = "Login_anonCanLoginOnAuthModalFromGlobalNavigation")
 	public void anonCanLoginOnAuthModalFromGlobalNavigation() {
 		Login login = new Login();
-		login.openLogiTrak();
-		login.typeUsername("ehoff1");
-		login.typePassword("Rmstc911");
+		//login.openLogiTrak();
+		//login.typeUsername("ehoff1");
+		//login.typePassword("Rmstc911");
 		//login.submit();
 		//signInLink.clickOnSignIn();
 		//Assert.assertTrue(authModal.isSignInOpened());
